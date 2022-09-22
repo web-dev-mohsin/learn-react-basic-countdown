@@ -1,0 +1,12 @@
+.edit-icon{
+    background-color: blue;
+    margin-left: 0 auto;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    opacity: 0;
+    float: right;
+}
+.Title:hover .edit-icon{
+    opacity: 1;
+}
